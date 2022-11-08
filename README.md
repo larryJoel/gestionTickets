@@ -1,6 +1,6 @@
 # gestionTickets
 Aplicación para la gestión de tickets hecha en windows form c#
-###Importante:
+### Importante:
 Se debe crear un directorio llamado: "Json Sample", donde estarn los archivos JSON y elk archivo de texto para generar el ticket impreso
 El JSON Usuario.json tiene esta estructura:
 [
