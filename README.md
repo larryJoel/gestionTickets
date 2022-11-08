@@ -3,7 +3,9 @@ Aplicación para la gestión de tickets hecha en windows form c#
 ### Importante:
 Se debe crear un directorio llamado: "Json Sample", donde estarn los archivos JSON y elk archivo de texto para generar el ticket impreso
 El JSON Usuario.json tiene esta estructura:
-... [
+```yaml
+{
+   [
   {
     "Id": "1",
     "Nombre": "XXXXX",
@@ -16,7 +18,9 @@ El JSON Usuario.json tiene esta estructura:
     "Password": "123",
     "nivelAcceso": "supervisor"
   }
-... ]
+]
+}
+
 El JSON Ticket.json tiene esta estructura:
 [
 {
