@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "02",
+    "NroTicket": "0230102022",
+    "Cliente": "CABEGUIAS",
+    "EmailCliente": "cabeg@gmail.com",
+    "Incidencia": "problemas con la red",
+    "Usuario": "Heyzalle Gonzalez",
+    "Fecha": "lunes, 31 de octubre de 2022",
+    "TipoIncidencia": "Hardware-Red",
+    "Prioridad": "Alta",
+    "Estado": "Abierto",
+    "Solucion": "pendiente",
+    "Observaciones": "pendiente"
+  },
+  {
+    "Id": "03",
+    "NroTicket": "0331102022",
+    "Cliente": "aysa",
+    "EmailCliente": "aysa@gmail.com",
+    "Incidencia": "no enciende la maquina",
+    "Usuario": "Heyzelle",
+    "Fecha": "lunes, 31 de octubre de 2022",
+    "TipoIncidencia": "Hardware-Partes equipo",
+    "Prioridad": "Media",
+    "Estado": "Abierto",
+    "Solucion": "s/s",
+    "Observaciones": "S/O"
+  }
+]
