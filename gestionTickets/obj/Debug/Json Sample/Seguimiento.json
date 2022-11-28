@@ -1,0 +1,90 @@
+[
+  {
+    "Id": "1",
+    "NroTicket": "0KIH0ADDI",
+    "Estado": "Abierto",
+    "Usuario": "Heyzelle",
+    "Fecha": "23/05/2022",
+    "Mensaje": "Prueba de seguimiento"
+  },
+  {
+    "Id": "2",
+    "NroTicket": "0KIH0ADDI",
+    "Estado": "Abierto",
+    "Usuario": "Larry",
+    "Fecha": "23/05/2022",
+    "Mensaje": "Prueba de seguimiento 02"
+  },
+  {
+    "Id": "3",
+    "NroTicket": "0KIH0ADDI",
+    "Estado": "Pausado",
+    "Usuario": "larry",
+    "Fecha": "lunes, 7 de noviembre de 2022",
+    "Mensaje": "bla bla bla"
+  },
+  {
+    "Id": "4",
+    "NroTicket": "0KIH0ADDI",
+    "Estado": "Pausado",
+    "Usuario": "heyzelle",
+    "Fecha": "lunes, 7 de noviembre de 2022",
+    "Mensaje": "2do comentario hecho por la consola"
+  },
+  {
+    "Id": "5",
+    "NroTicket": "0KIH0ADDI",
+    "Estado": "Pausado",
+    "Usuario": "Camila González",
+    "Fecha": "lunes, 7 de noviembre de 2022",
+    "Mensaje": "verificando el funcionamiento de la herramienta"
+  },
+  {
+    "Id": "6",
+    "NroTicket": "0230102022",
+    "Estado": "Abierto",
+    "Usuario": "larry gonzalez",
+    "Fecha": "lunes, 7 de noviembre de 2022",
+    "Mensaje": "Probando un segundo ticket existente"
+  },
+  {
+    "Id": "7",
+    "NroTicket": "0331102022",
+    "Estado": "Abierto",
+    "Usuario": "Mariesty Aguilera",
+    "Fecha": "lunes, 7 de noviembre de 2022",
+    "Mensaje": "Prueba nro 03 de registro de comentario para un tercer ticket"
+  },
+  {
+    "Id": "8",
+    "NroTicket": "0KIH0ADDI",
+    "Estado": "Pendiente",
+    "Usuario": "larry gonzalez",
+    "Fecha": "lunes, 7 de noviembre de 2022",
+    "Mensaje": "El ticket se paso a Pendiente para probar la funcionalidad completa - verificando"
+  },
+  {
+    "Id": "9",
+    "NroTicket": "0230102022",
+    "Estado": "Abierto",
+    "Usuario": "camila gonzalez",
+    "Fecha": "lunes, 7 de noviembre de 2022",
+    "Mensaje": "cuanrta prueba de carga de comentarios al seguimiento de este ticket"
+  },
+  {
+    "Id": "10",
+    "NroTicket": "I8H7664BA",
+    "Estado": "Abierto",
+    "Usuario": "larry gonzález",
+    "Fecha": "miércoles, 9 de noviembre de 2022",
+    "Mensaje": "Verificación de los servicios en el servidor - no se encontró el servicio detenido."
+  },
+  {
+    "Id": "11",
+    "NroTicket": "HIG09FG6C",
+    "Estado": "Abierto",
+    "Usuario": "Alex C.",
+    "Fecha": "miércoles, 9 de noviembre de 2022",
+    "Mensaje": "No voy a comer, se rompió la moto"
+  }
+]

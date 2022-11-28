@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "01",
+    "Nombre": "larry",
+    "Apellido": "gonzalez",
+    "Dni": "95985143",
+    "Cargo": "analista",
+    "Email": "larry@gmail",
+    "Usuario": "analista",
+    "Sector": "sistemas",
+    "Password": "123",
+    "nivelAcceso": "supervisor"
+  },
+  {
+    "Id": "02",
+    "Nombre": "mariesty",
+    "Apellido": "Aguilera",
+    "Dni": "95971225",
+    "Cargo": "analista 2",
+    "Email": "mary@gmail",
+    "Usuario": "ana",
+    "Sector": "sistemas",
+    "Password": "1234",
+    "nivelAcceso": "supervisor"
+  },
+  {
+    "Id": "03",
+    "Nombre": "Hey Alejandra",
+    "Apellido": "gonzalez",
+    "Dni": "959854142",
+    "Cargo": "pasante",
+    "Email": "hey@gmail.com",
+    "Usuario": "hey",
+    "Sector": "arquitectura",
+    "Password": "123",
+    "nivelAcceso": "oprario"
+  },
+  {
+    "Id": "05",
+    "Nombre": "Hey Alejandra",
+    "Apellido": "gonzalez",
+    "Dni": "959854142",
+    "Cargo": "pasante",
+    "Email": "hey@gmail.com",
+    "Usuario": "hey",
+    "Sector": "arquitectura",
+    "Password": "123",
+    "nivelAcceso": "oprario"
+  }
+]

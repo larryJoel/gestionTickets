@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "1",
+    "NroTicket": "0KIH0ADDI",
+    "Cliente": "Juan Perez medina",
+    "EmailCliente": "juan@gmail.com",
+    "Incidencia": "no puedo entrar al sistema administrativo lorem impsum dasdnpnpoanpoajd, nodadoasndp asdnosadn pasondpaon",
+    "Usuario": "analista 3",
+    "Fecha": "lunes, 31 de octubre de 2022",
+    "TipoIncidencia": "software-aplicación interna",
+    "Prioridad": "Alta",
+    "Estado": "Pausado",
+    "Solucion": "En proceso",
+    "Observaciones": "Buscando la forma de agregar comentarios a ver si funciona"
+  },
+  {
+    "Id": "2",
+    "NroTicket": "0230102022",
+    "Cliente": "CABEGUIAS",
+    "EmailCliente": "cabeg@gmail.com",
+    "Incidencia": "problemas con la red",
+    "Usuario": "Heyzalle Gonzalez",
+    "Fecha": "lunes, 31 de octubre de 2022",
+    "TipoIncidencia": "Hardware-Red",
+    "Prioridad": "Alta",
+    "Estado": "Abierto",
+    "Solucion": "pendiente",
+    "Observaciones": "pendiente"
+  },
+  {
+    "Id": "3",
+    "NroTicket": "0KIH0ADDI",
+    "Cliente": "aysa",
+    "EmailCliente": "aysa@gmail.com",
+    "Incidencia": "no enciende la maquina",
+    "Usuario": "Heyzelle",
+    "Fecha": "lunes, 31 de octubre de 2022",
+    "TipoIncidencia": "Hardware-Partes equipo",
+    "Prioridad": "Media",
+    "Estado": "Abierto",
+    "Solucion": "s/s",
+    "Observaciones": "S/O"
+  }
+]

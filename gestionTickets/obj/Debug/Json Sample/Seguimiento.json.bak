@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1",
+    "NroTicket": "0KIH0ADDI",
+    "Estado": "Abierto",
+    "Usuario": "Heyzelle",
+    "Fecha": "23/05/2022",
+    "Mensaje": "Prueba de seguimiento"
+  },
+{
+    "Id": "1",
+    "NroTicket": "0KIH0ADDI",
+    "Estado": "Abierto",
+    "Usuario": "Larry",
+    "Fecha": "23/05/2022",
+    "Mensaje": "Prueba de seguimiento 02"
+  },
+]

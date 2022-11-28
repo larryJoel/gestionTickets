@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "01",
+    "Nombre": "larry",
+    "Apellido": "gonzalez",
+    "Dni": "95985143",
+    "Cargo": "analista",
+    "Email": "larry@gmail",
+    "Usuario": "analista",
+    "Sector": "sistemas",
+    "Password": "123",
+    "nivelAcceso": "supervisor"
+  },
+  {
+    "Id": "2",
+    "Nombre": "hey",
+    "Apellido": "gonzalez",
+    "Dni": "9598544",
+    "Cargo": "pasante",
+    "Email": "hey@gmail.com",
+    "Usuario": "hey",
+    "Sector": "ingenieria",
+    "Password": "123",
+    "nivelAcceso": "supervisor"
+  }
+]
